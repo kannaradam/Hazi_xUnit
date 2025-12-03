@@ -18,7 +18,7 @@ namespace teszteles.Tests
     public class SzamoloTeszt
     {
         [Fact] 
-        public void Duplaz_NegyetKap_NyolcatAdVissza()
+        public void duplaz_szamot()
         {
             var szamolo = new Szamolo(); 
             int bemenet = 4;
