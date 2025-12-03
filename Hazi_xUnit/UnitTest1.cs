@@ -1,8 +1,7 @@
 using Xunit;
 using System;
 
-namespace teszteles
-{
+
     public class Szamolo
     {
         public int Duplaz(int szam)
@@ -10,7 +9,6 @@ namespace teszteles
             return szam * 2;
         }
     }
-}
 
 
 namespace teszteles.Tests
