@@ -28,7 +28,7 @@ namespace teszteles.Tests
             int tenyleges = szamolo.Duplaz(bemenet); 
 
            
-            Assert.Equal(elvart, tenyleges); 
+            Assert.Equal(elvart, tenyleges) 
 
         }
     }
