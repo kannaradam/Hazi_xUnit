@@ -25,10 +25,10 @@ namespace teszteles.Tests
             int elvart = 8;
 
  
-            int tenyleges = szamolo.Duplaz(bemenet); 
+            int tenyleges = szamolo.Duplaz(bemenet);
 
-           
-            Assert.Equal(elvart, tenyleges) 
+
+            Assert.Equal(elvart, tenyleges); 
 
         }
     }
